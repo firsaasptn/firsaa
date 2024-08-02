@@ -1,0 +1,27 @@
+.judul{
+  text-align: center;
+  background: pink;
+}
+
+
+.rounded-image {
+    width: 200px; /* Ubah sesuai kebutuhan */
+    height: 200px; /* Ubah sesuai kebutuhan */
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.nama{
+  text-align: center;
+  background: #FFF0F5;
+}
+
+.kontak{
+  text-align: center;
+  background: #FFF0F5;
+}
+
+audio {
+    width: 100%; 
+    margin-top: 20px;
+}

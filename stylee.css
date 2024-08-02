@@ -1,0 +1,29 @@
+.judul1{
+  text-align: center;
+  background: pink;
+}
+
+.sinopsis{
+  text-align: justify;
+  background: pink;
+}
+
+.Tokoh{
+  text-align: justify;
+  background: pink;
+}
+
+.film{
+  text-align: justify;
+  background: pink;
+}
+
+audio {
+    width: 100%; 
+    margin-top: 20px;
+}
+
+.cuplikan{
+  text-align: justify;
+  background: pink;
+}
