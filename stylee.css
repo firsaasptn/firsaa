@@ -27,3 +27,42 @@ audio {
   text-align: justify;
   background: pink;
 }
+
+body {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 2rem; 
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+@media (max-widht: 600px){
+  .container{
+   grid-template-columns: 1fr;
+    }
+  }
+  
+:root {
+  --main-font: 'Arial, sans-serif';
+  --main-color: #333;
+}
+
+body {
+  font-family: var(--main-font);
+  color: var(--main-color);
+}
+
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  flex: 1 1 200px; 
+}

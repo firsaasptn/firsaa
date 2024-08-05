@@ -1,0 +1,52 @@
+.karier{
+    border: 5px solid pink;
+    padding: 10px; 
+    margin: 20px; 
+    display: inline-block; 
+}
+
+#model{
+    border: 5px solid pink;
+    padding: 10px; 
+    margin: 20px; 
+    display: inline-block; 
+}
+
+.seni{
+    border: 5px solid pink; 
+    padding: 10px; 
+    margin: 20px; 
+    display: inline-block; 
+}
+
+#musik{
+    border: 5px solid pink; 
+    padding: 10px; 
+    margin: 20px; 
+    display: inline-block; 
+}
+
+
+.penulis{
+    border: 5px solid pink; 
+    padding: 10px; 
+    margin: 20px; 
+    display: inline-block; 
+}
+
+
+#wirausaha{
+    border: 5px solid pink;
+    padding: 10px; 
+    margin: 20px; 
+    display: inline-block; 
+}
+
+footer {
+    background-color: pink;
+    color: #fff;
+    text-align: center;
+    padding: 1px;
+    width: 100%;
+    bottom: 0;
+}
